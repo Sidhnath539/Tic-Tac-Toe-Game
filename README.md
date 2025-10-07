@@ -20,4 +20,4 @@ This is a browser-based Tic Tac Toe game where two players take turns marking X 
 ## 💻 How to Run
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://sidhnath539.github.io/Tic-Tac-Toe-Game/
